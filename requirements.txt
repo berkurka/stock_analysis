@@ -1,6 +1,6 @@
-streamlit
+streamlit==1.11.1
 pandas
 openpyxl
-yfinance
+yfinance>=0.2.33
 plotly
 appdirs
