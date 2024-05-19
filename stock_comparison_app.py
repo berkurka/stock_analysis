@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import appdirs as ad
+ad.user_cache_dir = lambda *args: "/tmp"
 import yfinance as yf
 import plotly.graph_objects as go
 import numpy as np 
