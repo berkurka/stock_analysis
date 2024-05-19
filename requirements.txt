@@ -1,4 +1,4 @@
-streamlit==1.11.1
+streamlit==1.33.0
 pandas
 openpyxl
 yfinance==0.2.38
